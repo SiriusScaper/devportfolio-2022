@@ -76,58 +76,29 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `SiriuScaper`, `devportfolio-2022`, `SiriusScaper`, `linkedin_username`, `gmail.com`, `ruselmann.dev`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+<!-- * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) TODO: Change to CSS -->
+<!-- * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) TODO: Change to HTML -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-* npm
-
-  ```sh
-  npm install npm@latest -g
-  ```
+To get a local copy up and running follow these steps.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
 
    ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-
-3. Install NPM packages
-
-   ```sh
-   npm install
-   ```
-
-4. Enter your API in `config.js`
-
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   git clone https://github.com/SiriuScaper/devportfolio-2022.git
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -144,12 +115,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-* [ ] Feature 1
-* [ ] Feature 2
-* [ ] Feature 3
-  * [ ] Nested Feature
+* [ ] Add a contact form
+* [ ] Add preview img or gif for projects
+* [ ] Add more projects
+  * [ ] Make them hidden unless revealed by user
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/SiriuScaper/devportfolio-2022/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -179,18 +150,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@SiriusScaper](https://twitter.com/SiriusScaper) - ruselmann.dev@gmail.com.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/SiriusScaper/devportfolio-2022](https://github.com/SiriusScaper/devportfolio-2022)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Raj Shekhar](https://github.com/rajshekhar26)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
