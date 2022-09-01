@@ -29,10 +29,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Developer Portfolio 2022</h3>
 
   <p align="center">
-    project_description
+    This is my current developer portfolio based on the awesome template from @rajshekhar26
     <br />
     <a href="https://github.com/SiriusScaper/devportfolio-2022"><strong>Explore the docs »</strong></a>
     <br />
@@ -76,7 +76,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `SiriuScaper`, `devportfolio-2022`, `SiriusScaper`, `linkedin_username`, `gmail.com`, `ruselmann.dev`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `SiriuScaper`, `devportfolio-2022`, `SiriusScaper`, `linkedin_username`, `gmail.com`, `ruselmann.dev`, `Developer Portfolio 2022`, `This is my current developer portfolio based on the awesome template from`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
